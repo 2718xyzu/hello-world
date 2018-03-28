@@ -1,4 +1,4 @@
 # hello-world
-This is a test repository.  disp('Hello world!'); /n
-<b> This is an edit </b> /n
+This is a test repository.  disp('Hello world!'); 
+<b> This is an edit </b> 
 <i> print "Hello world!" <i>
